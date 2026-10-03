@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "meicut": {
+      "url": "https://meicut.com/mcp",
+      "headers": {
+        "Authorization": "Bearer mv_your_api_key_here"
+      }
+    }
+  }
+}

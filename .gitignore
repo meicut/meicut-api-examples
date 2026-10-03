@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+node_modules/
+quickstart_result.mp4
+.env
+.DS_Store

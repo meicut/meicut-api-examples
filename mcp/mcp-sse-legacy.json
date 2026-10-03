@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "meicut": {
+      "url": "https://meicut.com/mcp/sse?api_key=mv_your_api_key_here"
+    }
+  }
+}
